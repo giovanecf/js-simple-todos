@@ -1,1 +1,1 @@
-# js-todos
+# js-simple-todos
